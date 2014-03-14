@@ -1,3 +1,4 @@
-danka
- 1. co tu pisać?
- 1
+## Technologia wytwarzania odzieży
+
+### 1. Wstęp
+#### 2. "**" jhwe3wi
